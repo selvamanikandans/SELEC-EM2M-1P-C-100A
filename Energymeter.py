@@ -1,7 +1,6 @@
 # Energy meter logging 
 # Selec 1P 100A 
 # Refer the datasheet for more details
-#
 import pymodbus
 import serial
 import time
